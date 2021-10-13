@@ -5,10 +5,10 @@
 プライベートではアニメ、ゲームなどを好んでいます。
 
 ## Skills
-- OS Ubuntu,windows
-- Languages JavaScript, C#
-- Engine,Frameworks Node.js, Express, .NET
-- Tool, MiddleWare Git,PostgreSQL, SQL server
+- OS : Ubuntu,windows
+- Languages : JavaScript, C#
+- Engine,Frameworks : Node.js, Express, .NET
+- Tool, MiddleWare : Git,PostgreSQL, SQL server
 
 # Works
 
