@@ -1,8 +1,3 @@
-
-layout: default
-title: github pages sample
-description: github pagesのサンプルページです！
-
 # About
 
 駆け出しプログラマー22歳です。
