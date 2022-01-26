@@ -2,19 +2,22 @@
 
 # About
 
-駆け出しプログラマー22歳です。
+駆け出しプログラマー23歳です。
 趣味では１年ほどプログラミングを学習しています。開発言語は主にJavaScriptです。
 プライベートではアニメ、ゲームなどを好んでいます。
 
-## Skills
-- OS : Ubuntu,windows
-- Languages : JavaScript, C#
-- Engine,Frameworks : Node.js, Express, .NET
-- Tool, MiddleWare : Git,PostgreSQL, SQL server
+# Skills
+- Languages : JavaScript, Typescript,
+- Engine,Frameworks : Node.js, Express, React
+- Tool, MiddleWare : Next.js, supabase
 
 # Works
-<iframe src="https://openprocessing.org/sketch/1307238/embed/" width="400" height="400"></iframe>
+### 先生のための席替えアプリ
+小学校で使うことを想定した席替えサイトです。あらかじめ設定しておくと、ランダムに変化していると見せかけて設定した席配置を表示できます。
 
-## profile
+https://change-seat-production.vercel.app/
+
+
+# profile
 - Keito654
 - 徳島県出身、宇都宮居住
