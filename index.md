@@ -20,8 +20,7 @@ PostgreSQL, supabase, Firebase
 ### 先生のための席替えアプリ
 小学校で使うことを想定した席替えサイトです。あらかじめ設定しておくと、ランダムに変化していると見せかけて設定した席配置を表示できます。
 
-https://change-seat-production.vercel.app/
-
+[https://change-seat-production.vercel.app/](https://change-seat-production.vercel.app/)
 
 # profile
 - Keito654
