@@ -7,9 +7,14 @@
 プライベートではアニメ、ゲームなどを好んでいます。
 
 # Skills
-- Languages : JavaScript, Typescript,
-- Engine,Frameworks : Node.js, Express, React
-- Tool, MiddleWare : Next.js, supabase
+### Language
+Javascript, Typescript, C#  
+
+### Framework
+React, Next.js  
+
+### Tool
+PostgreSQL, supabase, Firebase  
 
 # Works
 ### 先生のための席替えアプリ
