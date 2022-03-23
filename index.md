@@ -20,6 +20,12 @@ PostgreSQL, supabase, Firebase
 
 [https://change-seat-production.vercel.app/](https://change-seat-production.vercel.app/)
 
+
+テスト用のID,パスワードを用意しています。  
+ID：　test@test.jp  
+Password: test@test.jp
+
+
 ソースコード  
 [https://github.com/Keito654/change-seat-production](https://github.com/Keito654/change-seat-production)
 
